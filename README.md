@@ -75,7 +75,7 @@ R 192.168.2.0 [120/1] via 192.168.2.1, 00:00:00, FastEthernet0/0
 
 2.	Ping from PC to PC
 You can also check connectivity between the PCs on different networks to ensure that RIP is correctly routing packets across the routers.
-•	Example: Ping from PC0 (192.168.1.2) to PC3 (192.168.3.2):
+•	Example: Ping from PC0 (192.168.1.2) to PC3 (192.168.3.2): 
 1.	Click on PC0, go to the Desktop tab.
 2.	Open the Command Prompt.
 3.	Use the ping command: ping 192.168.3.2
